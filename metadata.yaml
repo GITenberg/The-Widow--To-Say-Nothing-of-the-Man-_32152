@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34715'
     url: http://www.gutenberg.org/2009/agents/34715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32152#The-Widow--To-Say-Nothing-of-the-Man-
 gutenberg_issued: '2010-04-27'
 gutenberg_type: Text
 identifiers:
